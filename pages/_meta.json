@@ -1,0 +1,12 @@
+{
+  "index": {
+    "type": "page",
+    "title": "Documentation"
+  },
+  "showcase": {
+    "type": "page",
+    "title": "Showcase",
+    "href": "https://next-woo.com",
+    "newWindow": true
+  }
+}
